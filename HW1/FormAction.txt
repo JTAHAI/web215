@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+ <html>
+ <head>
+ <title>From Action</title>
+ </head>
+ <body>
+ <h1>Welmcome to my Form page</h1>
+ </body>
+ </html> 

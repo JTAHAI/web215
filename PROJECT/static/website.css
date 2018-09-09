@@ -1,0 +1,19 @@
+body {
+    background-color: white;
+    -moz-text-decoration-color: darkcyan; /* Code for Firefox */
+    text-decoration-color: darkcyan;
+}
+body {
+    color: darkcyan;
+	text-align: left
+}
+
+h1 {
+    color: blue;
+	text-align: left
+}
+p {
+    color: darkcyan;
+	text-align: left
+}
+

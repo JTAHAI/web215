@@ -1,0 +1,8 @@
+127.0.0.1 - - [17/Feb/2017:11:25:14] "GET / HTTP/1.1" 200 312 "" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36"
+127.0.0.1 - - [17/Feb/2017:11:25:14] "GET /static/website.css HTTP/1.1" 304 - "http://127.0.0.1:8080/" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36"
+127.0.0.1 - - [17/Feb/2017:11:25:16] "GET /static/more.html HTTP/1.1" 304 - "http://127.0.0.1:8080/" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36"
+127.0.0.1 - - [17/Feb/2017:11:25:34] "GET / HTTP/1.1" 200 312 "http://127.0.0.1:8080/static/more.html" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36"
+127.0.0.1 - - [20/Feb/2017:10:42:37] "GET / HTTP/1.1" 200 312 "" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36"
+127.0.0.1 - - [20/Feb/2017:10:42:37] "GET /static/website.css HTTP/1.1" 304 - "http://127.0.0.1:8080/" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36"
+127.0.0.1 - - [20/Feb/2017:10:42:40] "GET /static/more.html HTTP/1.1" 304 - "http://127.0.0.1:8080/" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36"
+127.0.0.1 - - [20/Feb/2017:10:42:43] "GET / HTTP/1.1" 200 312 "http://127.0.0.1:8080/static/more.html" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36"

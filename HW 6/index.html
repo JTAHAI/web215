@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Home Page</title>
+  </head>
+  <body>
+    <h2>Discussion Board</h2>
+
+    <div id="comments-container"></div>
+    <form id="add-comment-form" action="/add-comment" method="POST">
+      <h2>Add Comment</h2>
+     <p><input type="text" name="name" placeholder="Enter your name."/></p>
+     <p><input type="text" name="comment" placeholder="Enter your comment here."></p>
+     <input type="submit" value="Add a comment."/>
+    </form>
+
+    <script
+      src="https://code.jquery.com/jquery-3.1.1.min.js"
+      integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
+      crossorigin="anonymous"></script>
+    <script src="/static/index-ajax.js"></script>
+  </body>
+</html>

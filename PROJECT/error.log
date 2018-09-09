@@ -1,0 +1,1007 @@
+[02/May/2017:09:01:52] HTTP 
+Traceback (most recent call last):
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "D:\Python 3.6\lib\site-packages\cherrypy\lib\encoding.py", line 220, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cpdispatch.py", line 60, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "C:/Users/Justin/OneDrive/YCCC/WEB 215/PROJECT/root.py", line 60, in get_comments
+    """, (comment_id,))
+NameError: name 'comment_id' is not defined
+[02/May/2017:09:01:52] HTTP 
+Request Headers:
+  Remote-Addr: 127.0.0.1
+  HOST: 127.0.0.1:8080
+  CONNECTION: keep-alive
+  ACCEPT: text/html, */*; q=0.01
+  X-REQUESTED-WITH: XMLHttpRequest
+  USER-AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36
+  REFERER: http://127.0.0.1:8080/
+  ACCEPT-ENCODING: gzip, deflate, sdch, br
+  ACCEPT-LANGUAGE: en-US,en;q=0.8
+[02/May/2017:09:11:27] HTTP 
+Traceback (most recent call last):
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "D:\Python 3.6\lib\site-packages\cherrypy\lib\encoding.py", line 220, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cpdispatch.py", line 60, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "C:/Users/Justin/OneDrive/YCCC/WEB 215/PROJECT/root.py", line 58, in get_comments
+    """, (comment_id,))
+NameError: name 'comment_id' is not defined
+[02/May/2017:09:11:27] HTTP 
+Request Headers:
+  Remote-Addr: 127.0.0.1
+  HOST: 127.0.0.1:8080
+  CONNECTION: keep-alive
+  ACCEPT: text/html, */*; q=0.01
+  X-REQUESTED-WITH: XMLHttpRequest
+  USER-AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36
+  REFERER: http://127.0.0.1:8080/
+  ACCEPT-ENCODING: gzip, deflate, sdch, br
+  ACCEPT-LANGUAGE: en-US,en;q=0.8
+[02/May/2017:09:24:50] HTTP 
+Traceback (most recent call last):
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "D:\Python 3.6\lib\site-packages\cherrypy\lib\encoding.py", line 220, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cpdispatch.py", line 60, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "C:/Users/Justin/OneDrive/YCCC/WEB 215/PROJECT/root.py", line 61, in get_comments
+    """, (comment_id,))
+NameError: name 'comment_id' is not defined
+[02/May/2017:09:24:50] HTTP 
+Request Headers:
+  Remote-Addr: 127.0.0.1
+  HOST: 127.0.0.1:8080
+  CONNECTION: keep-alive
+  ACCEPT: text/html, */*; q=0.01
+  X-REQUESTED-WITH: XMLHttpRequest
+  USER-AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36
+  REFERER: http://127.0.0.1:8080/
+  ACCEPT-ENCODING: gzip, deflate, sdch, br
+  ACCEPT-LANGUAGE: en-US,en;q=0.8
+[02/May/2017:09:35:08] HTTP 
+Traceback (most recent call last):
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "D:\Python 3.6\lib\site-packages\cherrypy\lib\encoding.py", line 220, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cpdispatch.py", line 60, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "C:/Users/Justin/OneDrive/YCCC/WEB 215/PROJECT/root.py", line 61, in get_comments
+    """, (comment_id,))
+NameError: name 'comment_id' is not defined
+[02/May/2017:09:35:08] HTTP 
+Request Headers:
+  Remote-Addr: 127.0.0.1
+  HOST: 127.0.0.1:8080
+  CONNECTION: keep-alive
+  ACCEPT: text/html, */*; q=0.01
+  X-REQUESTED-WITH: XMLHttpRequest
+  USER-AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36
+  REFERER: http://127.0.0.1:8080/
+  ACCEPT-ENCODING: gzip, deflate, sdch, br
+  ACCEPT-LANGUAGE: en-US,en;q=0.8
+[02/May/2017:10:04:57] HTTP 
+Traceback (most recent call last):
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "D:\Python 3.6\lib\site-packages\cherrypy\lib\encoding.py", line 220, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cpdispatch.py", line 60, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "C:/Users/Justin/OneDrive/YCCC/WEB 215/PROJECT/root.py", line 60, in get_comments
+    """, (comment_id,))
+UnboundLocalError: local variable 'comment_id' referenced before assignment
+[02/May/2017:10:04:57] HTTP 
+Request Headers:
+  Remote-Addr: 127.0.0.1
+  HOST: 127.0.0.1:8080
+  CONNECTION: keep-alive
+  ACCEPT: text/html, */*; q=0.01
+  X-REQUESTED-WITH: XMLHttpRequest
+  USER-AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36
+  REFERER: http://127.0.0.1:8080/
+  ACCEPT-ENCODING: gzip, deflate, sdch, br
+  ACCEPT-LANGUAGE: en-US,en;q=0.8
+[02/May/2017:10:05:08] HTTP 
+Traceback (most recent call last):
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "D:\Python 3.6\lib\site-packages\cherrypy\lib\encoding.py", line 220, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cpdispatch.py", line 60, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "C:/Users/Justin/OneDrive/YCCC/WEB 215/PROJECT/root.py", line 95, in add_comment
+    """, (name, comment))
+sqlite3.OperationalError: table comments has 3 columns but 2 values were supplied
+[02/May/2017:10:05:08] HTTP 
+Request Headers:
+  Remote-Addr: 127.0.0.1
+  HOST: 127.0.0.1:8080
+  CONNECTION: keep-alive
+  CACHE-CONTROL: max-age=0
+  ORIGIN: http://127.0.0.1:8080
+  UPGRADE-INSECURE-REQUESTS: 1
+  USER-AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36
+  ACCEPT: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  REFERER: http://127.0.0.1:8080/
+  ACCEPT-ENCODING: gzip, deflate, br
+  ACCEPT-LANGUAGE: en-US,en;q=0.8
+  Content-Type: application/x-www-form-urlencoded
+  Content-Length: 26
+[02/May/2017:10:12:08] HTTP 
+Traceback (most recent call last):
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "D:\Python 3.6\lib\site-packages\cherrypy\lib\encoding.py", line 220, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cpdispatch.py", line 60, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "C:/Users/Justin/OneDrive/YCCC/WEB 215/PROJECT/root.py", line 60, in get_comments
+    """, (comment_id,))
+UnboundLocalError: local variable 'comment_id' referenced before assignment
+[02/May/2017:10:12:08] HTTP 
+Request Headers:
+  Remote-Addr: 127.0.0.1
+  HOST: 127.0.0.1:8080
+  CONNECTION: keep-alive
+  ACCEPT: text/html, */*; q=0.01
+  X-REQUESTED-WITH: XMLHttpRequest
+  USER-AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36
+  REFERER: http://127.0.0.1:8080/
+  ACCEPT-ENCODING: gzip, deflate, sdch, br
+  ACCEPT-LANGUAGE: en-US,en;q=0.8
+[02/May/2017:10:23:35] HTTP 
+Traceback (most recent call last):
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "D:\Python 3.6\lib\site-packages\cherrypy\lib\encoding.py", line 220, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cpdispatch.py", line 60, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "C:/Users/Justin/OneDrive/YCCC/WEB 215/PROJECT/root.py", line 60, in get_comments
+    """, (comment_id,))
+UnboundLocalError: local variable 'comment_id' referenced before assignment
+[02/May/2017:10:23:35] HTTP 
+Request Headers:
+  Remote-Addr: 127.0.0.1
+  HOST: 127.0.0.1:8080
+  CONNECTION: keep-alive
+  ACCEPT: text/html, */*; q=0.01
+  X-REQUESTED-WITH: XMLHttpRequest
+  USER-AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36
+  REFERER: http://127.0.0.1:8080/
+  ACCEPT-ENCODING: gzip, deflate, sdch, br
+  ACCEPT-LANGUAGE: en-US,en;q=0.8
+[02/May/2017:10:31:17] HTTP 
+Traceback (most recent call last):
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "D:\Python 3.6\lib\site-packages\cherrypy\lib\encoding.py", line 220, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cpdispatch.py", line 60, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "C:/Users/Justin/OneDrive/YCCC/WEB 215/PROJECT/root.py", line 60, in get_comments
+    """, (comment_id,))
+UnboundLocalError: local variable 'comment_id' referenced before assignment
+[02/May/2017:10:31:17] HTTP 
+Request Headers:
+  Remote-Addr: 127.0.0.1
+  HOST: 127.0.0.1:8080
+  CONNECTION: keep-alive
+  ACCEPT: text/html, */*; q=0.01
+  X-REQUESTED-WITH: XMLHttpRequest
+  USER-AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36
+  REFERER: http://127.0.0.1:8080/
+  ACCEPT-ENCODING: gzip, deflate, sdch, br
+  ACCEPT-LANGUAGE: en-US,en;q=0.8
+[02/May/2017:10:31:23] HTTP 
+Traceback (most recent call last):
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "D:\Python 3.6\lib\site-packages\cherrypy\lib\encoding.py", line 220, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cpdispatch.py", line 60, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "C:/Users/Justin/OneDrive/YCCC/WEB 215/PROJECT/root.py", line 95, in add_comment
+    """, (name, comment))
+sqlite3.OperationalError: table comments has 3 columns but 2 values were supplied
+[02/May/2017:10:31:23] HTTP 
+Request Headers:
+  Remote-Addr: 127.0.0.1
+  HOST: 127.0.0.1:8080
+  CONNECTION: keep-alive
+  ACCEPT: */*
+  ORIGIN: http://127.0.0.1:8080
+  X-REQUESTED-WITH: XMLHttpRequest
+  USER-AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36
+  REFERER: http://127.0.0.1:8080/
+  ACCEPT-ENCODING: gzip, deflate, br
+  ACCEPT-LANGUAGE: en-US,en;q=0.8
+  Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+  Content-Length: 28
+[02/May/2017:10:33:29] HTTP 
+Traceback (most recent call last):
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "D:\Python 3.6\lib\site-packages\cherrypy\lib\encoding.py", line 220, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cpdispatch.py", line 60, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "C:/Users/Justin/OneDrive/YCCC/WEB 215/PROJECT/root.py", line 60, in get_comments
+    """, (comment_id,))
+UnboundLocalError: local variable 'comment_id' referenced before assignment
+[02/May/2017:10:33:29] HTTP 
+Request Headers:
+  Remote-Addr: 127.0.0.1
+  HOST: 127.0.0.1:8080
+  CONNECTION: keep-alive
+  ACCEPT: text/html, */*; q=0.01
+  X-REQUESTED-WITH: XMLHttpRequest
+  USER-AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36
+  REFERER: http://127.0.0.1:8080/
+  ACCEPT-ENCODING: gzip, deflate, sdch, br
+  ACCEPT-LANGUAGE: en-US,en;q=0.8
+[02/May/2017:10:37:24] HTTP 
+Traceback (most recent call last):
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "D:\Python 3.6\lib\site-packages\cherrypy\lib\encoding.py", line 220, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cpdispatch.py", line 60, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "C:/Users/Justin/OneDrive/YCCC/WEB 215/PROJECT/root.py", line 60, in get_comments
+    """, (comment_id,))
+UnboundLocalError: local variable 'comment_id' referenced before assignment
+[02/May/2017:10:37:24] HTTP 
+Request Headers:
+  Remote-Addr: 127.0.0.1
+  HOST: 127.0.0.1:8080
+  CONNECTION: keep-alive
+  ACCEPT: text/html, */*; q=0.01
+  X-REQUESTED-WITH: XMLHttpRequest
+  USER-AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36
+  REFERER: http://127.0.0.1:8080/
+  ACCEPT-ENCODING: gzip, deflate, sdch, br
+  ACCEPT-LANGUAGE: en-US,en;q=0.8
+[02/May/2017:10:39:21] HTTP 
+Traceback (most recent call last):
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "D:\Python 3.6\lib\site-packages\cherrypy\lib\encoding.py", line 220, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cpdispatch.py", line 60, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "C:/Users/Justin/OneDrive/YCCC/WEB 215/PROJECT/root.py", line 60, in get_comments
+    """, (comment_id,))
+UnboundLocalError: local variable 'comment_id' referenced before assignment
+[02/May/2017:10:39:21] HTTP 
+Request Headers:
+  Remote-Addr: 127.0.0.1
+  HOST: 127.0.0.1:8080
+  CONNECTION: keep-alive
+  ACCEPT: text/html, */*; q=0.01
+  X-REQUESTED-WITH: XMLHttpRequest
+  USER-AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36
+  REFERER: http://127.0.0.1:8080/
+  ACCEPT-ENCODING: gzip, deflate, sdch, br
+  ACCEPT-LANGUAGE: en-US,en;q=0.8
+[02/May/2017:10:39:36] HTTP 
+Traceback (most recent call last):
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "D:\Python 3.6\lib\site-packages\cherrypy\lib\encoding.py", line 220, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cpdispatch.py", line 60, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "C:/Users/Justin/OneDrive/YCCC/WEB 215/PROJECT/root.py", line 95, in add_comment
+    """, (name, comment))
+sqlite3.OperationalError: table comments has 3 columns but 2 values were supplied
+[02/May/2017:10:39:36] HTTP 
+Request Headers:
+  Remote-Addr: 127.0.0.1
+  HOST: 127.0.0.1:8080
+  CONNECTION: keep-alive
+  ACCEPT: */*
+  ORIGIN: http://127.0.0.1:8080
+  X-REQUESTED-WITH: XMLHttpRequest
+  USER-AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36
+  REFERER: http://127.0.0.1:8080/
+  ACCEPT-ENCODING: gzip, deflate, br
+  ACCEPT-LANGUAGE: en-US,en;q=0.8
+  Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+  Content-Length: 26
+[02/May/2017:10:39:36] HTTP 
+Traceback (most recent call last):
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "D:\Python 3.6\lib\site-packages\cherrypy\lib\encoding.py", line 220, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cpdispatch.py", line 60, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "C:/Users/Justin/OneDrive/YCCC/WEB 215/PROJECT/root.py", line 95, in add_comment
+    """, (name, comment))
+sqlite3.OperationalError: table comments has 3 columns but 2 values were supplied
+[02/May/2017:10:39:36] HTTP 
+Request Headers:
+  Remote-Addr: 127.0.0.1
+  HOST: 127.0.0.1:8080
+  CONNECTION: keep-alive
+  ACCEPT: */*
+  ORIGIN: http://127.0.0.1:8080
+  X-REQUESTED-WITH: XMLHttpRequest
+  USER-AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36
+  REFERER: http://127.0.0.1:8080/
+  ACCEPT-ENCODING: gzip, deflate, br
+  ACCEPT-LANGUAGE: en-US,en;q=0.8
+  Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+  Content-Length: 26
+[02/May/2017:10:44:47] HTTP 
+Traceback (most recent call last):
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "D:\Python 3.6\lib\site-packages\cherrypy\lib\encoding.py", line 220, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cpdispatch.py", line 60, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "C:/Users/Justin/OneDrive/YCCC/WEB 215/PROJECT/root.py", line 60, in get_comments
+    """, (comment_id,))
+UnboundLocalError: local variable 'comment_id' referenced before assignment
+[02/May/2017:10:44:47] HTTP 
+Request Headers:
+  Remote-Addr: 127.0.0.1
+  HOST: 127.0.0.1:8080
+  CONNECTION: keep-alive
+  ACCEPT: text/html, */*; q=0.01
+  X-REQUESTED-WITH: XMLHttpRequest
+  USER-AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36
+  REFERER: http://127.0.0.1:8080/
+  ACCEPT-ENCODING: gzip, deflate, sdch, br
+  ACCEPT-LANGUAGE: en-US,en;q=0.8
+[02/May/2017:10:44:49] HTTP 
+Traceback (most recent call last):
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "D:\Python 3.6\lib\site-packages\cherrypy\lib\encoding.py", line 220, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cpdispatch.py", line 60, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "C:/Users/Justin/OneDrive/YCCC/WEB 215/PROJECT/root.py", line 60, in get_comments
+    """, (comment_id,))
+UnboundLocalError: local variable 'comment_id' referenced before assignment
+[02/May/2017:10:44:49] HTTP 
+Request Headers:
+  Remote-Addr: 127.0.0.1
+  HOST: 127.0.0.1:8080
+  CONNECTION: keep-alive
+  ACCEPT: text/html, */*; q=0.01
+  X-REQUESTED-WITH: XMLHttpRequest
+  USER-AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36
+  REFERER: http://127.0.0.1:8080/
+  ACCEPT-ENCODING: gzip, deflate, sdch, br
+  ACCEPT-LANGUAGE: en-US,en;q=0.8
+[02/May/2017:10:44:51] HTTP 
+Traceback (most recent call last):
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "D:\Python 3.6\lib\site-packages\cherrypy\lib\encoding.py", line 220, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cpdispatch.py", line 60, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "C:/Users/Justin/OneDrive/YCCC/WEB 215/PROJECT/root.py", line 60, in get_comments
+    """, (comment_id,))
+UnboundLocalError: local variable 'comment_id' referenced before assignment
+[02/May/2017:10:44:51] HTTP 
+Request Headers:
+  Remote-Addr: 127.0.0.1
+  HOST: 127.0.0.1:8080
+  CONNECTION: keep-alive
+  ACCEPT: text/html, */*; q=0.01
+  X-REQUESTED-WITH: XMLHttpRequest
+  USER-AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36
+  REFERER: http://127.0.0.1:8080/
+  ACCEPT-ENCODING: gzip, deflate, sdch, br
+  ACCEPT-LANGUAGE: en-US,en;q=0.8
+[02/May/2017:10:44:52] HTTP 
+Traceback (most recent call last):
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "D:\Python 3.6\lib\site-packages\cherrypy\lib\encoding.py", line 220, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cpdispatch.py", line 60, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "C:/Users/Justin/OneDrive/YCCC/WEB 215/PROJECT/root.py", line 60, in get_comments
+    """, (comment_id,))
+UnboundLocalError: local variable 'comment_id' referenced before assignment
+[02/May/2017:10:44:52] HTTP 
+Request Headers:
+  Remote-Addr: 127.0.0.1
+  HOST: 127.0.0.1:8080
+  CONNECTION: keep-alive
+  ACCEPT: text/html, */*; q=0.01
+  X-REQUESTED-WITH: XMLHttpRequest
+  USER-AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36
+  REFERER: http://127.0.0.1:8080/
+  ACCEPT-ENCODING: gzip, deflate, sdch, br
+  ACCEPT-LANGUAGE: en-US,en;q=0.8
+[02/May/2017:10:45:02] HTTP 
+Traceback (most recent call last):
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "D:\Python 3.6\lib\site-packages\cherrypy\lib\encoding.py", line 220, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cpdispatch.py", line 60, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "C:/Users/Justin/OneDrive/YCCC/WEB 215/PROJECT/root.py", line 60, in get_comments
+    """, (comment_id,))
+UnboundLocalError: local variable 'comment_id' referenced before assignment
+[02/May/2017:10:45:02] HTTP 
+Request Headers:
+  Remote-Addr: 127.0.0.1
+  HOST: 127.0.0.1:8080
+  CONNECTION: keep-alive
+  ACCEPT: text/html, */*; q=0.01
+  X-REQUESTED-WITH: XMLHttpRequest
+  USER-AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36
+  REFERER: http://127.0.0.1:8080/
+  ACCEPT-ENCODING: gzip, deflate, sdch, br
+  ACCEPT-LANGUAGE: en-US,en;q=0.8
+[02/May/2017:10:45:05] HTTP 
+Traceback (most recent call last):
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "D:\Python 3.6\lib\site-packages\cherrypy\lib\encoding.py", line 220, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cpdispatch.py", line 60, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "C:/Users/Justin/OneDrive/YCCC/WEB 215/PROJECT/root.py", line 60, in get_comments
+    """, (comment_id,))
+UnboundLocalError: local variable 'comment_id' referenced before assignment
+[02/May/2017:10:45:05] HTTP 
+Request Headers:
+  Remote-Addr: 127.0.0.1
+  HOST: 127.0.0.1:8080
+  CONNECTION: keep-alive
+  ACCEPT: text/html, */*; q=0.01
+  X-REQUESTED-WITH: XMLHttpRequest
+  USER-AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36
+  REFERER: http://127.0.0.1:8080/
+  ACCEPT-ENCODING: gzip, deflate, sdch, br
+  ACCEPT-LANGUAGE: en-US,en;q=0.8
+[02/May/2017:10:45:07] HTTP 
+Traceback (most recent call last):
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "D:\Python 3.6\lib\site-packages\cherrypy\lib\encoding.py", line 220, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cpdispatch.py", line 60, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "C:/Users/Justin/OneDrive/YCCC/WEB 215/PROJECT/root.py", line 60, in get_comments
+    """, (comment_id,))
+UnboundLocalError: local variable 'comment_id' referenced before assignment
+[02/May/2017:10:45:07] HTTP 
+Request Headers:
+  Remote-Addr: 127.0.0.1
+  HOST: 127.0.0.1:8080
+  CONNECTION: keep-alive
+  ACCEPT: text/html, */*; q=0.01
+  X-REQUESTED-WITH: XMLHttpRequest
+  USER-AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36
+  REFERER: http://127.0.0.1:8080/
+  ACCEPT-ENCODING: gzip, deflate, sdch, br
+  ACCEPT-LANGUAGE: en-US,en;q=0.8
+[02/May/2017:10:46:41] HTTP 
+Traceback (most recent call last):
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "D:\Python 3.6\lib\site-packages\cherrypy\lib\encoding.py", line 220, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cpdispatch.py", line 60, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "C:/Users/Justin/OneDrive/YCCC/WEB 215/PROJECT/root.py", line 60, in get_comments
+    """, (comment_id,))
+UnboundLocalError: local variable 'comment_id' referenced before assignment
+[02/May/2017:10:46:41] HTTP 
+Request Headers:
+  Remote-Addr: 127.0.0.1
+  HOST: 127.0.0.1:8080
+  CONNECTION: keep-alive
+  ACCEPT: text/html, */*; q=0.01
+  X-REQUESTED-WITH: XMLHttpRequest
+  USER-AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36
+  REFERER: http://127.0.0.1:8080/
+  ACCEPT-ENCODING: gzip, deflate, sdch, br
+  ACCEPT-LANGUAGE: en-US,en;q=0.8
+[02/May/2017:10:47:31] HTTP 
+Traceback (most recent call last):
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "D:\Python 3.6\lib\site-packages\cherrypy\lib\encoding.py", line 220, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cpdispatch.py", line 60, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "C:/Users/Justin/OneDrive/YCCC/WEB 215/PROJECT/root.py", line 60, in get_comments
+    """, (comment_id,))
+UnboundLocalError: local variable 'comment_id' referenced before assignment
+[02/May/2017:10:47:31] HTTP 
+Request Headers:
+  Remote-Addr: 127.0.0.1
+  HOST: 127.0.0.1:8080
+  CONNECTION: keep-alive
+  ACCEPT: text/html, */*; q=0.01
+  X-REQUESTED-WITH: XMLHttpRequest
+  USER-AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36
+  REFERER: http://127.0.0.1:8080/
+  ACCEPT-ENCODING: gzip, deflate, sdch, br
+  ACCEPT-LANGUAGE: en-US,en;q=0.8
+[02/May/2017:10:47:41] HTTP 
+Traceback (most recent call last):
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "D:\Python 3.6\lib\site-packages\cherrypy\lib\encoding.py", line 220, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cpdispatch.py", line 60, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "C:/Users/Justin/OneDrive/YCCC/WEB 215/PROJECT/root.py", line 60, in get_comments
+    """, (comment_id,))
+UnboundLocalError: local variable 'comment_id' referenced before assignment
+[02/May/2017:10:47:41] HTTP 
+Request Headers:
+  Remote-Addr: 127.0.0.1
+  REFERER: http://127.0.0.1:8080/
+  ACCEPT-LANGUAGE: en-US
+  USER-AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 Edge/15.15063
+  ACCEPT: text/html, */*; q=0.01
+  X-REQUESTED-WITH: XMLHttpRequest
+  ACCEPT-ENCODING: gzip, deflate
+  HOST: 127.0.0.1:8080
+  CONNECTION: Keep-Alive
+[02/May/2017:10:47:54] HTTP 
+Traceback (most recent call last):
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "D:\Python 3.6\lib\site-packages\cherrypy\lib\encoding.py", line 220, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cpdispatch.py", line 60, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "C:/Users/Justin/OneDrive/YCCC/WEB 215/PROJECT/root.py", line 60, in get_comments
+    """, (comment_id,))
+UnboundLocalError: local variable 'comment_id' referenced before assignment
+[02/May/2017:10:47:54] HTTP 
+Request Headers:
+  Remote-Addr: 127.0.0.1
+  REFERER: http://127.0.0.1:8080/
+  ACCEPT-LANGUAGE: en-US
+  USER-AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 Edge/15.15063
+  ACCEPT: text/html, */*; q=0.01
+  X-REQUESTED-WITH: XMLHttpRequest
+  ACCEPT-ENCODING: gzip, deflate
+  HOST: 127.0.0.1:8080
+  CONNECTION: Keep-Alive
+[02/May/2017:10:47:58] HTTP 
+Traceback (most recent call last):
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "D:\Python 3.6\lib\site-packages\cherrypy\lib\encoding.py", line 220, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cpdispatch.py", line 60, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "C:/Users/Justin/OneDrive/YCCC/WEB 215/PROJECT/root.py", line 95, in add_comment
+    """, (name, comment))
+sqlite3.OperationalError: table comments has 3 columns but 2 values were supplied
+[02/May/2017:10:47:58] HTTP 
+Request Headers:
+  Remote-Addr: 127.0.0.1
+  ORIGIN: http://127.0.0.1:8080
+  REFERER: http://127.0.0.1:8080/
+  ACCEPT-LANGUAGE: en-US
+  USER-AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 Edge/15.15063
+  ACCEPT: */*
+  X-REQUESTED-WITH: XMLHttpRequest
+  ACCEPT-ENCODING: gzip, deflate
+  HOST: 127.0.0.1:8080
+  CONNECTION: Keep-Alive
+  CACHE-CONTROL: no-cache
+  Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+  Content-Length: 27
+[02/May/2017:10:50:53] HTTP 
+Traceback (most recent call last):
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "D:\Python 3.6\lib\site-packages\cherrypy\lib\encoding.py", line 221, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cpdispatch.py", line 60, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "C:/Users/Justin/OneDrive/YCCC/WEB 215/PROJECT/root.py", line 60, in get_comments
+    """, (comment_id,))
+UnboundLocalError: local variable 'comment_id' referenced before assignment
+[02/May/2017:10:50:53] HTTP 
+Request Headers:
+  Remote-Addr: 127.0.0.1
+  HOST: 127.0.0.1:8080
+  CONNECTION: keep-alive
+  ACCEPT: text/html, */*; q=0.01
+  X-REQUESTED-WITH: XMLHttpRequest
+  USER-AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36
+  REFERER: http://127.0.0.1:8080/
+  ACCEPT-ENCODING: gzip, deflate, sdch, br
+  ACCEPT-LANGUAGE: en-US,en;q=0.8
+[02/May/2017:11:12:56] HTTP 
+Traceback (most recent call last):
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "D:\Python 3.6\lib\site-packages\cherrypy\lib\encoding.py", line 221, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cpdispatch.py", line 60, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "C:\Users\Justin\OneDrive\YCCC\WEB 215\PROJECT\root.py", line 60, in get_comments
+    """, (comment_id,))
+UnboundLocalError: local variable 'comment_id' referenced before assignment
+[02/May/2017:11:12:56] HTTP 
+Request Headers:
+  Remote-Addr: 127.0.0.1
+  HOST: 127.0.0.1:8080
+  CONNECTION: keep-alive
+  ACCEPT: text/html, */*; q=0.01
+  X-REQUESTED-WITH: XMLHttpRequest
+  USER-AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36
+  REFERER: http://127.0.0.1:8080/
+  ACCEPT-ENCODING: gzip, deflate, sdch, br
+  ACCEPT-LANGUAGE: en-US,en;q=0.8
+[02/May/2017:11:12:58] HTTP 
+Traceback (most recent call last):
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "D:\Python 3.6\lib\site-packages\cherrypy\lib\encoding.py", line 221, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cpdispatch.py", line 60, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "C:\Users\Justin\OneDrive\YCCC\WEB 215\PROJECT\root.py", line 148, in like_comment_form
+    user_select_elem += "<option value=\"" + id + "\">" + username + "</option>"
+UnboundLocalError: local variable 'id' referenced before assignment
+[02/May/2017:11:12:58] HTTP 
+Request Headers:
+  Remote-Addr: 127.0.0.1
+  HOST: 127.0.0.1:8080
+  CONNECTION: keep-alive
+  UPGRADE-INSECURE-REQUESTS: 1
+  USER-AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36
+  ACCEPT: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  REFERER: http://127.0.0.1:8080/
+  ACCEPT-ENCODING: gzip, deflate, sdch, br
+  ACCEPT-LANGUAGE: en-US,en;q=0.8
+[02/May/2017:11:15:54] HTTP 
+Traceback (most recent call last):
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "D:\Python 3.6\lib\site-packages\cherrypy\lib\encoding.py", line 221, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cpdispatch.py", line 60, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "C:/Users/Justin/OneDrive/YCCC/WEB 215/PROJECT/root.py", line 60, in get_comments
+    """, (comment_id,))
+UnboundLocalError: local variable 'comment_id' referenced before assignment
+[02/May/2017:11:15:54] HTTP 
+Request Headers:
+  Remote-Addr: 127.0.0.1
+  HOST: 127.0.0.1:8080
+  CONNECTION: keep-alive
+  ACCEPT: text/html, */*; q=0.01
+  X-REQUESTED-WITH: XMLHttpRequest
+  USER-AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36
+  REFERER: http://127.0.0.1:8080/
+  ACCEPT-ENCODING: gzip, deflate, sdch, br
+  ACCEPT-LANGUAGE: en-US,en;q=0.8
+[02/May/2017:11:15:57] HTTP 
+Traceback (most recent call last):
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "D:\Python 3.6\lib\site-packages\cherrypy\lib\encoding.py", line 221, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cpdispatch.py", line 60, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "C:/Users/Justin/OneDrive/YCCC/WEB 215/PROJECT/root.py", line 148, in like_comment_form
+    user_select_elem += "<option value=\"" + user_id + "\">" + username + "</option>"
+UnboundLocalError: local variable 'user_id' referenced before assignment
+[02/May/2017:11:15:57] HTTP 
+Request Headers:
+  Remote-Addr: 127.0.0.1
+  HOST: 127.0.0.1:8080
+  CONNECTION: keep-alive
+  UPGRADE-INSECURE-REQUESTS: 1
+  USER-AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36
+  ACCEPT: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  REFERER: http://127.0.0.1:8080/
+  ACCEPT-ENCODING: gzip, deflate, sdch, br
+  ACCEPT-LANGUAGE: en-US,en;q=0.8
+[02/May/2017:11:56:05] HTTP 
+Traceback (most recent call last):
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "D:\Python 3.6\lib\site-packages\cherrypy\lib\encoding.py", line 221, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cpdispatch.py", line 60, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "C:/Users/Justin/OneDrive/YCCC/WEB 215/PROJECT/root.py", line 60, in get_comments
+    """, (comment_id,))
+UnboundLocalError: local variable 'comment_id' referenced before assignment
+[02/May/2017:11:56:05] HTTP 
+Request Headers:
+  Remote-Addr: 127.0.0.1
+  HOST: 127.0.0.1:8080
+  CONNECTION: keep-alive
+  ACCEPT: text/html, */*; q=0.01
+  X-REQUESTED-WITH: XMLHttpRequest
+  USER-AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36
+  REFERER: http://127.0.0.1:8080/
+  ACCEPT-ENCODING: gzip, deflate, sdch, br
+  ACCEPT-LANGUAGE: en-US,en;q=0.8
+[02/May/2017:11:56:30] HTTP 
+Traceback (most recent call last):
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "D:\Python 3.6\lib\site-packages\cherrypy\lib\encoding.py", line 221, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cpdispatch.py", line 60, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "C:/Users/Justin/OneDrive/YCCC/WEB 215/PROJECT/root.py", line 60, in get_comments
+    """, (comment_id,))
+UnboundLocalError: local variable 'comment_id' referenced before assignment
+[02/May/2017:11:56:30] HTTP 
+Request Headers:
+  Remote-Addr: 127.0.0.1
+  HOST: 127.0.0.1:8080
+  CONNECTION: keep-alive
+  ACCEPT: text/html, */*; q=0.01
+  X-REQUESTED-WITH: XMLHttpRequest
+  USER-AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36
+  REFERER: http://127.0.0.1:8080/
+  ACCEPT-ENCODING: gzip, deflate, sdch, br
+  ACCEPT-LANGUAGE: en-US,en;q=0.8
+[02/May/2017:11:56:55] HTTP 
+Traceback (most recent call last):
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "D:\Python 3.6\lib\site-packages\cherrypy\lib\encoding.py", line 221, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cpdispatch.py", line 60, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "C:/Users/Justin/OneDrive/YCCC/WEB 215/PROJECT/root.py", line 60, in get_comments
+    """, (comment_id,))
+UnboundLocalError: local variable 'comment_id' referenced before assignment
+[02/May/2017:11:56:55] HTTP 
+Request Headers:
+  Remote-Addr: 127.0.0.1
+  HOST: 127.0.0.1:8080
+  CONNECTION: keep-alive
+  ACCEPT: text/html, */*; q=0.01
+  X-REQUESTED-WITH: XMLHttpRequest
+  USER-AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36
+  REFERER: http://127.0.0.1:8080/
+  ACCEPT-ENCODING: gzip, deflate, sdch, br
+  ACCEPT-LANGUAGE: en-US,en;q=0.8
+[02/May/2017:11:59:01] HTTP 
+Traceback (most recent call last):
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "D:\Python 3.6\lib\site-packages\cherrypy\lib\encoding.py", line 221, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cpdispatch.py", line 60, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "C:/Users/Justin/OneDrive/YCCC/WEB 215/PROJECT/root.py", line 135, in like_comment_form
+    comment = html.escape(record[2] + " " + record[3])
+IndexError: tuple index out of range
+[02/May/2017:11:59:01] HTTP 
+Request Headers:
+  Remote-Addr: 127.0.0.1
+  HOST: 127.0.0.1:8080
+  CONNECTION: keep-alive
+  UPGRADE-INSECURE-REQUESTS: 1
+  USER-AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36
+  ACCEPT: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  REFERER: http://127.0.0.1:8080/
+  ACCEPT-ENCODING: gzip, deflate, sdch, br
+  ACCEPT-LANGUAGE: en-US,en;q=0.8
+[02/May/2017:12:01:43] HTTP 
+Traceback (most recent call last):
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "D:\Python 3.6\lib\site-packages\cherrypy\lib\encoding.py", line 221, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cpdispatch.py", line 60, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "C:/Users/Justin/OneDrive/YCCC/WEB 215/PROJECT/root.py", line 137, in like_comment_form
+    comment_select_elem += "<option value=\"" + id + "\">" + name + " by " + comment + "</option>"
+TypeError: must be str, not builtin_function_or_method
+[02/May/2017:12:01:43] HTTP 
+Request Headers:
+  Remote-Addr: 127.0.0.1
+  HOST: 127.0.0.1:8080
+  CONNECTION: keep-alive
+  UPGRADE-INSECURE-REQUESTS: 1
+  USER-AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36
+  ACCEPT: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  REFERER: http://127.0.0.1:8080/
+  ACCEPT-ENCODING: gzip, deflate, sdch, br
+  ACCEPT-LANGUAGE: en-US,en;q=0.8
+[02/May/2017:16:26:59] HTTP 
+Traceback (most recent call last):
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "D:\Python 3.6\lib\site-packages\cherrypy\lib\encoding.py", line 221, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cpdispatch.py", line 60, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "C:/Users/Justin/OneDrive/YCCC/WEB 215/PROJECT/root.py", line 137, in like_comment_form
+    comment_select_elem += "<option value=\""+comment_id+"\">"+name+" by "+comment+"</option>"
+TypeError: must be str, not int
+[02/May/2017:16:26:59] HTTP 
+Request Headers:
+  Remote-Addr: 127.0.0.1
+  HOST: 127.0.0.1:8080
+  CONNECTION: keep-alive
+  UPGRADE-INSECURE-REQUESTS: 1
+  USER-AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36
+  ACCEPT: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  REFERER: http://127.0.0.1:8080/
+  ACCEPT-ENCODING: gzip, deflate, sdch, br
+  ACCEPT-LANGUAGE: en-US,en;q=0.8
+[02/May/2017:16:27:10] HTTP 
+Traceback (most recent call last):
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "D:\Python 3.6\lib\site-packages\cherrypy\lib\encoding.py", line 221, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cpdispatch.py", line 60, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "C:/Users/Justin/OneDrive/YCCC/WEB 215/PROJECT/root.py", line 137, in like_comment_form
+    comment_select_elem += "<option value=\""+comment_id+"\">"+name+" by "+comment+"</option>"
+TypeError: must be str, not int
+[02/May/2017:16:27:10] HTTP 
+Request Headers:
+  Remote-Addr: 127.0.0.1
+  HOST: 127.0.0.1:8080
+  CONNECTION: keep-alive
+  UPGRADE-INSECURE-REQUESTS: 1
+  USER-AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36
+  ACCEPT: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+  REFERER: http://127.0.0.1:8080/
+  ACCEPT-ENCODING: gzip, deflate, sdch, br
+  ACCEPT-LANGUAGE: en-US,en;q=0.8
+[02/May/2017:16:32:48] HTTP 
+Traceback (most recent call last):
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "D:\Python 3.6\lib\site-packages\cherrypy\lib\encoding.py", line 221, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cpdispatch.py", line 60, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "C:/Users/Justin/OneDrive/YCCC/WEB 215/PROJECT/root.py", line 60, in get_comments
+    """, (comment_id,))
+UnboundLocalError: local variable 'comment_id' referenced before assignment
+[02/May/2017:16:32:48] HTTP 
+Request Headers:
+  Remote-Addr: 127.0.0.1
+  HOST: 127.0.0.1:8080
+  CONNECTION: keep-alive
+  ACCEPT: text/html, */*; q=0.01
+  X-REQUESTED-WITH: XMLHttpRequest
+  USER-AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36
+  REFERER: http://127.0.0.1:8080/
+  ACCEPT-ENCODING: gzip, deflate, sdch, br
+  ACCEPT-LANGUAGE: en-US,en;q=0.8
+[02/May/2017:16:33:55] HTTP 
+Traceback (most recent call last):
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "D:\Python 3.6\lib\site-packages\cherrypy\lib\encoding.py", line 221, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cpdispatch.py", line 60, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "C:/Users/Justin/OneDrive/YCCC/WEB 215/PROJECT/root.py", line 60, in get_comments
+    """, (comment_id,))
+UnboundLocalError: local variable 'comment_id' referenced before assignment
+[02/May/2017:16:33:55] HTTP 
+Request Headers:
+  Remote-Addr: 127.0.0.1
+  HOST: 127.0.0.1:8080
+  CONNECTION: keep-alive
+  ACCEPT: text/html, */*; q=0.01
+  X-REQUESTED-WITH: XMLHttpRequest
+  USER-AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36
+  REFERER: http://127.0.0.1:8080/
+  ACCEPT-ENCODING: gzip, deflate, sdch, br
+  ACCEPT-LANGUAGE: en-US,en;q=0.8
+[02/May/2017:16:36:52] HTTP 
+Traceback (most recent call last):
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "D:\Python 3.6\lib\site-packages\cherrypy\lib\encoding.py", line 221, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cpdispatch.py", line 60, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "C:/Users/Justin/OneDrive/YCCC/WEB 215/PROJECT/root.py", line 60, in get_comments
+    """, (comment_id,))
+UnboundLocalError: local variable 'comment_id' referenced before assignment
+[02/May/2017:16:36:52] HTTP 
+Request Headers:
+  Remote-Addr: 127.0.0.1
+  HOST: 127.0.0.1:8080
+  CONNECTION: keep-alive
+  ACCEPT: text/html, */*; q=0.01
+  X-REQUESTED-WITH: XMLHttpRequest
+  USER-AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36
+  REFERER: http://127.0.0.1:8080/
+  ACCEPT-ENCODING: gzip, deflate, sdch, br
+  ACCEPT-LANGUAGE: en-US,en;q=0.8
+[02/May/2017:16:37:37] HTTP 
+Traceback (most recent call last):
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "D:\Python 3.6\lib\site-packages\cherrypy\lib\encoding.py", line 221, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cpdispatch.py", line 60, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "C:/Users/Justin/OneDrive/YCCC/WEB 215/PROJECT/root.py", line 60, in get_comments
+    """, (comment_id,))
+UnboundLocalError: local variable 'comment_id' referenced before assignment
+[02/May/2017:16:37:37] HTTP 
+Request Headers:
+  Remote-Addr: 127.0.0.1
+  HOST: 127.0.0.1:8080
+  CONNECTION: keep-alive
+  ACCEPT: text/html, */*; q=0.01
+  X-REQUESTED-WITH: XMLHttpRequest
+  USER-AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36
+  REFERER: http://127.0.0.1:8080/
+  ACCEPT-ENCODING: gzip, deflate, sdch, br
+  ACCEPT-LANGUAGE: en-US,en;q=0.8
+[02/May/2017:16:45:30] HTTP 
+Traceback (most recent call last):
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "D:\Python 3.6\lib\site-packages\cherrypy\lib\encoding.py", line 221, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cpdispatch.py", line 60, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "C:/Users/Justin/OneDrive/YCCC/WEB 215/PROJECT/root.py", line 60, in get_comments
+    """, (comment_id,))
+UnboundLocalError: local variable 'comment_id' referenced before assignment
+[02/May/2017:16:45:30] HTTP 
+Request Headers:
+  Remote-Addr: 127.0.0.1
+  HOST: 127.0.0.1:8080
+  CONNECTION: keep-alive
+  ACCEPT: text/html, */*; q=0.01
+  X-REQUESTED-WITH: XMLHttpRequest
+  USER-AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36
+  REFERER: http://127.0.0.1:8080/
+  ACCEPT-ENCODING: gzip, deflate, sdch, br
+  ACCEPT-LANGUAGE: en-US,en;q=0.8
+[02/May/2017:16:46:05] HTTP 
+Traceback (most recent call last):
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "D:\Python 3.6\lib\site-packages\cherrypy\lib\encoding.py", line 221, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "D:\Python 3.6\lib\site-packages\cherrypy\_cpdispatch.py", line 60, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "C:/Users/Justin/OneDrive/YCCC/WEB 215/PROJECT/root.py", line 60, in get_comments
+    """, (comment_id,))
+UnboundLocalError: local variable 'comment_id' referenced before assignment
+[02/May/2017:16:46:05] HTTP 
+Request Headers:
+  Remote-Addr: 127.0.0.1
+  HOST: 127.0.0.1:8080
+  CONNECTION: keep-alive
+  ACCEPT: text/html, */*; q=0.01
+  X-REQUESTED-WITH: XMLHttpRequest
+  USER-AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36
+  REFERER: http://127.0.0.1:8080/
+  ACCEPT-ENCODING: gzip, deflate, sdch, br
+  ACCEPT-LANGUAGE: en-US,en;q=0.8

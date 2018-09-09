@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+    -moz-text-decoration-color: lawngreen; /* Code for Firefox */
+    text-decoration-color: lawngreen;
+}
+body {
+    color: lawngreen;
+	text-align: center
+}
+
+h1 {
+    color: lawngreen;
+	text-align: center
+}
+p {
+    color: lawngreen;
+	text-align: center
+}
+

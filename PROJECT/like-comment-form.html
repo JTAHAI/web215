@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Like Comment</title>
+     	<link rel="stylesheet" href="/static/website.css" type="text/css" />
+  </head>
+  <body>
+    <form action="/like-comment" method="POST">
+      <h2>Like Comment</h2>
+      <p>Select your username: {select_user}</p>
+      <p>Select the comment you like: {select_comment}</p>
+      <p><input type="submit" value="Confirm that you like this comment."/></p>
+    </form>
+    <div id="like-comment-message"></div>
+    <p><a href="/">Back to Home Page</a></p>
+
+    <script
+      src="https://code.jquery.com/jquery-3.1.1.min.js"
+      integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
+      crossorigin="anonymous"></script>
+    <script src="/static/like-comment-ajax.js"></script>
+  </body>
+</html>

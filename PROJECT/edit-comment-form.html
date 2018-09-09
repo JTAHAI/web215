@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Edit/Delete Comment</title>
+     	<link rel="stylesheet" href="/static/website.css" type="text/css" />
+  </head>
+  <body>
+    <form action="/edit-comment" method="POST" id="edit-comment-form">
+      <h2>Edit comment</h2>
+      <input type="hidden" name="comment_id" value="{comment_id}"/>
+      <p><input type="text" name="name" placeholder="Name" value="{name}" required/></p>
+      <p><input type="text" name="comment" placeholder="Enter new comment." value="{comment}" required/></p>
+      <p><input type="submit" value="Edit this comment."/></p>
+    </form>
+    <div id="edit-comment-message"></div>
+    <form action="/delete-comment" method="POST">
+      <input type="hidden" name="comment_id" value="{comment_id}"/>
+      <p><input type="submit" value="Delete this comment."/></p>
+    </form>
+    <p><a href="/">Back to Home Page</a></p>
+
+    <script
+      src="https://code.jquery.com/jquery-3.1.1.min.js"
+      integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
+      crossorigin="anonymous"></script>
+    <script src="/static/edit-comment-ajax.js"></script>
+  </body>
+</html>
